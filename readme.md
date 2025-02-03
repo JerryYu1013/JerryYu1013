@@ -1,6 +1,10 @@
 # Hello, I'm JRY 👋
 
 <p align="center">
+  <img src="https://i.imgur.com/hNcQtVk.gif" alt="Header GIF" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&lines=Programming+Enthusiast;Tech+Sharing;UI/UX+Design+Lover" alt="Typing SVG" />
 </p>
 
