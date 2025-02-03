@@ -1,7 +1,7 @@
 # Hello, I'm JRY 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/9BM80Hf.gif" alt="Header GIF" />
+  <img src="https://i.imgur.com/ne50IQV.gif" alt="Header GIF" />
 </p>
 
 <p align="center">
