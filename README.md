@@ -53,11 +53,11 @@
 
 ## 📨 Get In Touch
 
-- 📧 **Email**: [me@jrytw.com](mailto:me@jrytw.com)
+- **Email**: [me@jrytw.com](mailto:me@jrytw.com)
 
-- 📱 **Telegram**: [@JRY_6699](https://t.me/JRY_6699)
+- **Telegram**: [@JRY_6699](https://t.me/JRY_6699)
 
-- 🌐 **Website**: [jrytw.com](https://jrytw.com)
+- **Website**: [jrytw.com](https://jrytw.com)
 
 &nbsp;
 
