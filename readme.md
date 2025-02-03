@@ -43,7 +43,7 @@ I enjoy learning new technologies, sharing knowledge, and continuously challengi
 ## GitHub Stats 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerryYu1013&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYu1013&layout=compact&theme=radical" />
 </p>
 
 ---
