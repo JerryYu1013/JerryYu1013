@@ -13,7 +13,7 @@ I enjoy learning new technologies, sharing knowledge, and continuously challengi
 
 ---
 
-## Projects 👜
+## Some Small Projects 👜
 
 - [UpImg Image Hosting](https://github.com/JerryYu1013/UpImg)  
   A lightweight, open-source, and free image-sharing platform.
@@ -26,20 +26,6 @@ I enjoy learning new technologies, sharing knowledge, and continuously challengi
 
 ---
 
-## Games I Play 🕹️
-
-- Minecraft ⛏️
-
-- GTA 🚓
-
-- PUBG 🐓
-
-- VALORANT ⚔️
-
-- CS2 🔫
-
----
-
 ## GitHub Stats 🚀
 
 <p align="center">
@@ -48,7 +34,7 @@ I enjoy learning new technologies, sharing knowledge, and continuously challengi
 
 ---
 
-## Contact Me 📨
+## Get In Touch 📨
 
 - **Email**: [me@jrytw.com](mailto:me@jrytw.com)
 - **Telegram**: [JRY_6699](https://t.me/JRY_6699)
