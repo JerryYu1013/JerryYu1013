@@ -14,10 +14,22 @@
 
 ## Some Small Projects 👜
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=UpImg&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/UpImg) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=WMS&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/WMS) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/NSFW-Discord-Bot) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=Auto-Course-Selection&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/Auto-Course-Selection) &nbsp;
+- [UpImg Image Hosting](https://github.com/JerryYu1013/UpImg)  
+  A lightweight, open-source, and free image-sharing platform.
+
+- [WMS Warehouse Management System](https://github.com/JerryYu1013/WMS)  
+  A web-based warehouse management system to help you manage inventory easily.
+
+- [NSFW Discord Bot](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
+  A spicy Discord bot designed for anime lovers who enjoy NSFW content.
+
+---
+
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYu1013&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -42,5 +54,5 @@
 ---
 
 <p align="center">
-  <em>Feel free to connect and collaborate with me! ✨</em>
+  Feel free to connect and collaborate with me! ✨
 </p>
