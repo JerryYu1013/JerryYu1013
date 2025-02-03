@@ -14,14 +14,10 @@
 
 ## Some Small Projects 👜
 
-- [UpImg Image Hosting](https://github.com/JerryYu1013/UpImg)  
-  A lightweight, open-source, and free image-sharing platform.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=UpImg&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/UpImg) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=WMS&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/WMS) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/NSFW-Discord-Bot)
 
-- [WMS Warehouse Management System](https://github.com/JerryYu1013/WMS)  
-  A web-based warehouse management system to help you manage inventory easily.
-
-- [NSFW Discord Bot](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
-  A spicy Discord bot designed for anime lovers who enjoy NSFW content.
 
 ---
 
@@ -33,7 +29,7 @@
 
 ---
 
-## My toolbox 🔧
+## My Coding Tools 🔧
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML" width="50" height="50"/> &nbsp;
