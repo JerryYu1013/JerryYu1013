@@ -1,66 +1,221 @@
-<!-- Header Banner (可用自己的圖片網址) -->
-<p align="center">
-  <img src="https://your-image-url/banner.png" alt="Banner" width="100%">
-</p>
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>互動個人首頁 - [你的名字]</title>
+  <style>
+    /* Reset 與基本樣式 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      color: #333;
+      line-height: 1.6;
+    }
+    /* 頁首背景與打字機效果 */
+    header {
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: #fff;
+      text-align: center;
+      padding: 4rem 2rem;
+      position: relative;
+      overflow: hidden;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    /* 打字機效果的樣式 */
+    .typing {
+      border-right: .15em solid #fff;
+      white-space: nowrap;
+      overflow: hidden;
+      display: inline-block;
+    }
+    /* 導覽列 */
+    nav {
+      background: #333;
+    }
+    nav ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+    }
+    nav li {}
+    nav a {
+      display: block;
+      padding: 1rem 1.5rem;
+      color: #fff;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    nav a:hover {
+      background: #555;
+    }
+    /* 內容區塊 (section) 樣式 */
+    section {
+      padding: 4rem 2rem;
+      margin: 2rem auto;
+      max-width: 1000px;
+      background: #fff;
+      border-radius: 8px;
+      /* 初始狀態：透明並稍微下移 */
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+    }
+    /* 當元素進入可視範圍，加入 visible 類別 */
+    section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    /* 互動按鈕 */
+    .button {
+      display: inline-block;
+      padding: 0.8rem 1.2rem;
+      background: #667eea;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background: #556cd6;
+    }
+    /* 頁尾 */
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+    /* 響應式調整 */
+    @media (max-width: 600px) {
+      header h1 { font-size: 2.2rem; }
+      nav a { padding: 0.8rem 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <!-- 頁首區 -->
+  <header>
+    <h1>你好，我是 [你的名字]</h1>
+    <p class="typing" id="typing-text"></p>
+  </header>
 
-<!-- 自我介紹 -->
-<h1 align="center">Hi, I'm [你的名字] 👋</h1>
-<p align="center">
-  [你的職稱] | [你主要的技術棧] | [你的座右銘]
-</p>
+  <!-- 導覽列 -->
+  <nav>
+    <ul>
+      <li><a href="#about">關於我</a></li>
+      <li><a href="#projects">專案</a></li>
+      <li><a href="#contact">聯絡我</a></li>
+    </ul>
+  </nav>
 
-<!-- 個人簡介 -->
-## About Me
-- 🔭 我目前正在從事 **[你的專案/工作]**
-- 🌱 我目前正在學習 **[正在學習的技術/語言]**
-- 👯 我正在尋找 **[合作/學習夥伴]**
-- 🤔 我正在思考 **[某個技術或生活相關的問題]**
-- 📫 如何聯絡我: [你的電子信箱] 或 [社交媒體連結]
-- ⚡ 有趣的事實: [例如「我喜歡旅行」、「我喜歡攝影」等]
+  <!-- 內容區塊 -->
+  <section id="about">
+    <h2>關於我</h2>
+    <p>這裡簡單介紹一下你自己，描述你的背景、專長與興趣。當你捲動到這裡時，你會發現內容以平滑的動畫效果呈現。</p>
+    <button class="button" id="more-info-btn">更多資訊</button>
+  </section>
 
-<!-- 技能與工具 -->
-## Technologies & Tools
-<p align="center">
-  <!-- GitHub 語法徽章 (可以從 https://shields.io 取得) -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" />
-  <!-- 根據需求增加其他工具或技術 -->
-</p>
+  <section id="projects">
+    <h2>專案</h2>
+    <p>這裡展示我的部分專案，點擊專案名稱以進入詳細介紹：</p>
+    <ul>
+      <li><a href="https://github.com/yourusername/project1" target="_blank">專案名稱 1</a></li>
+      <li><a href="https://github.com/yourusername/project2" target="_blank">專案名稱 2</a></li>
+      <li><a href="https://github.com/yourusername/project3" target="_blank">專案名稱 3</a></li>
+    </ul>
+  </section>
 
-<!-- GitHub 統計資訊 -->
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <section id="contact">
+    <h2>聯絡我</h2>
+    <p>歡迎通過以下方式與我聯絡：</p>
+    <ul>
+      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      <li>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></li>
+      <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
+    </ul>
+  </section>
 
-<!-- 最近的 GitHub 活動 -->
-## Recent Activity
-<!-- 如果你使用 GitHub 的 activity-readme 工具，可以考慮加入如下區塊 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github" alt="Recent Activity Graph" />
-</p>
+  <!-- 頁尾 -->
+  <footer>
+    <p>© 2025 [你的名字]. All rights reserved.</p>
+  </footer>
 
-<!-- 項目展示 -->
-## Featured Projects
-<p align="center">
-  <a href="https://github.com/your-username/your-project-1" target="_blank">
-    <img src="https://your-image-url/project1.png" alt="Project 1" width="45%" style="margin-right: 5%;" />
-  </a>
-  <a href="https://github.com/your-username/your-project-2" target="_blank">
-    <img src="https://your-image-url/project2.png" alt="Project 2" width="45%" />
-  </a>
-</p>
+  <script>
+    /* ------------------------------
+       打字機效果
+    ------------------------------ */
+    const typingText = document.getElementById('typing-text');
+    const messages = ["前端開發者", "UI/UX 設計愛好者", "技術分享者"];
+    let messageIndex = 0;
+    let charIndex = 0;
+    let currentMessage = "";
+    let isDeleting = false;
 
-<!-- 聯絡方式 -->
-## Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <!-- 可依需求添加其他聯絡方式 -->
-</p>
+    function type() {
+      if (messageIndex >= messages.length) {
+        messageIndex = 0;
+      }
+      currentMessage = messages[messageIndex];
+
+      if (!isDeleting) {
+        typingText.textContent = currentMessage.substring(0, charIndex + 1);
+        charIndex++;
+        if (charIndex === currentMessage.length) {
+          isDeleting = true;
+          setTimeout(type, 1500);
+        } else {
+          setTimeout(type, 150);
+        }
+      } else {
+        typingText.textContent = currentMessage.substring(0, charIndex - 1);
+        charIndex--;
+        if (charIndex === 0) {
+          isDeleting = false;
+          messageIndex++;
+          setTimeout(type, 500);
+        } else {
+          setTimeout(type, 100);
+        }
+      }
+    }
+    document.addEventListener("DOMContentLoaded", type);
+
+    /* ------------------------------
+       滾動時顯示動畫效果 (使用 Intersection Observer)
+    ------------------------------ */
+    const sections = document.querySelectorAll("section");
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if(entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, { threshold: 0.2 });
+    sections.forEach(section => observer.observe(section));
+
+    /* ------------------------------
+       互動按鈕點擊效果
+    ------------------------------ */
+    document.getElementById('more-info-btn').addEventListener('click', () => {
+      alert("這裡可以跳轉到更多關於你的資訊，或彈出更多內容。");
+    });
+  </script>
+</body>
+</html>
