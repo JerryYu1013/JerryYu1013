@@ -16,8 +16,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=UpImg&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/UpImg) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=WMS&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/WMS) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/NSFW-Discord-Bot)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/Auto-Course-Selection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/NSFW-Discord-Bot) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JerryYu1013&repo=NSFW-Discord-Bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JerryYu1013/Auto-Course-Selection) &nbsp;
 
 
 
