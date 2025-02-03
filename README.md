@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  GIF From <a href="https://www.deviantart.com/kirokaze" target="_blank">Kirokaze</a>
+  Header GIF From <a href="https://www.deviantart.com/kirokaze" target="_blank">Kirokaze</a>
 </p>
 
 <p align="center">
