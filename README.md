@@ -23,7 +23,7 @@
 - [**NSFW Discord Bot**](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
   A spicy Discord bot designed for anime lovers who enjoy NSFW content.
 
-- [**Auto Course Selection**](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
+- [**Auto Course Selector**](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
   A spicy Discord bot designed for anime lovers who enjoy NSFW content.
 
 &nbsp;
