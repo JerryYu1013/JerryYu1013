@@ -24,7 +24,7 @@
   A spicy Discord bot designed for anime lovers who enjoy NSFW content.
 
 - [**Auto Course Selector**](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
-  A spicy Discord bot designed for anime lovers who enjoy NSFW content.
+  A Python-based automated course selection tool for specific high school systems.
 
 &nbsp;
 
