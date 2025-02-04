@@ -12,7 +12,7 @@
 
 &nbsp;
 
-## 👜 Some Small Projects
+## Some Small Projects 👜
 
 - [**UpImg Image Hosting**](https://github.com/JerryYu1013/UpImg)  
   A lightweight, open-source, and free image-sharing platform.
@@ -28,7 +28,7 @@
 
 &nbsp;
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYu1013&layout=compact&theme=tokyonight" />
@@ -36,7 +36,7 @@
 
 &nbsp;
 
-## 🔧 My Coding Tools
+## My Coding Tools 🔧
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
@@ -51,7 +51,7 @@
 
 &nbsp;
 
-## 📨 Get In Touch
+## Get In Touch 📨
 
 - **Email**: [me@jrytw.com](mailto:me@jrytw.com)
 
