@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYu1013&layout=compact&theme=tokyonight" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryYu1013&layout=compact&theme=tokyonight" /> &nbsp;
   <img src="https://i.imgur.com/Vz5jXof.gif" width="80px" height="80px">
 </p>
 
