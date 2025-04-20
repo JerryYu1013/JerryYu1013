@@ -12,7 +12,7 @@
 
 &nbsp;
 
-## 👜 Some Small Projects
+## 🔗 Some Small Projects
 
 - [**UpImg Image Hosting**](https://github.com/JerryYu1013/UpImg)  
   A lightweight, open-source, and free image-sharing platform.
