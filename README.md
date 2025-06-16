@@ -20,6 +20,9 @@
 - [**WMS Warehouse Management System**](https://github.com/JerryYu1013/WMS)  
   A web-based warehouse management system to help you manage inventory easily.
 
+- [**AGoodCam Random Video Chat**](https://github.com/JerryYu1013/AGoodCam)  
+  An open-source video chat platformfor 1-on-1 anonymous chats with strangers worldwide.
+
 - [**NSFW Discord Bot**](https://github.com/JerryYu1013/NSFW-Discord-Bot)  
   A spicy Discord bot designed for anime lovers who enjoy NSFW content.
 
