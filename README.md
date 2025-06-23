@@ -60,7 +60,7 @@
 
 ## 📨 Get In Touch
 
-- **Email**: [me@jrytw.com](mailto:me@jrytw.com)
+- **Email**: [hi@jrytw.com](mailto:me@jrytw.com)
 
 - **Telegram**: [@JRY_6699](https://t.me/JRY_6699)
 
