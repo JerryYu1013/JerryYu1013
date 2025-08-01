@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=0096FF&center=true&vCenter=true&lines=Hello,+I'm+JRY+👋;A+high+school+student;From+Taiwan+🇹🇼;Exploring+the+world+of;Programming!!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=0096FF&center=true&vCenter=true&lines=Hello,+I'm+JRY+👋;A+student+from+Taiwan+🇹🇼;Exploring+the+world+of;Programming!!!" alt="Typing SVG" />
 </p>
 
 &nbsp;
